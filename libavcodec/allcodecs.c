@@ -799,6 +799,7 @@ extern const FFCodec ff_libuavs3d_decoder;
 extern const FFCodec ff_libvo_amrwbenc_encoder;
 extern const FFCodec ff_libvorbis_encoder;
 extern const FFCodec ff_libvorbis_decoder;
+extern const FFCodec ff_libsvt_vp9_encoder;
 extern const FFCodec ff_libvpx_vp8_encoder;
 extern const FFCodec ff_libvpx_vp8_decoder;
 extern FFCodec ff_libvpx_vp9_encoder;
